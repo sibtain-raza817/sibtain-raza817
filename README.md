@@ -3,7 +3,6 @@
 I'm Sibtain Raza, a passionate Computer Science student and aspiring Software Developer.  
 I enjoy learning new technologies, solving coding problems, and building practical projects.
 
-- 🔭 I’m currently working on a UPI Fraud Detection System project
 - 🌱 I’m currently learning Full Stack Development using MERN Stack, Data Structures, OOP in C++, and JavaScript
 - 👯 I’m looking to collaborate on beginner-friendly open source projects
 - 🤔 I’m looking for new project ideas and planning to work on major real-world projects in the future
